@@ -38,7 +38,7 @@
 
   // OPPGAVE 4
   // Lag en funksjon som gir det fjerde navnet en stor bokstav, og console.log det nye navnet. 
-  // BONUS: erstatt det gamle navnet i names til det nye (tips, bruk pop og push)
+  // BONUS: bytt ut 'emil' med 'Emil' i arrayet.
   const ArrayJavaScript = (names = [
     'Gina',
     'Nils',

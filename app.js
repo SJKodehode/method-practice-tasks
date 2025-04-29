@@ -7,7 +7,7 @@
         'Amalie'
     ]
 
-    
+
   }
   ArrayFunction()
   
@@ -24,7 +24,7 @@
   LengthJavaScript()
 
 
-// OPPGAVE 3
+  // OPPGAVE 3
   // Lag en funksjon som:
   // 1. Tar inn en tekst
   // 2. Gjør JAVASCRIPT om til store og små bokstaver som dette: "Javascript"
@@ -36,3 +36,15 @@
   }
   TextJavaScript()
 
+  // OPPGAVE 4
+  // Lag en funksjon som gir det fjerde navnet en stor bokstav, og console.log det nye navnet. 
+  // BONUS: erstatt det gamle navnet i names til det nye (tips, bruk pop og push)
+  const ArrayJavaScript = (names = [
+    'Gina',
+    'Nils',
+    'Andreas',
+    'emil'
+  ]) => {
+
+  }
+  ArrayJavaScript()
